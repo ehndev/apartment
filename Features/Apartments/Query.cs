@@ -1,4 +1,7 @@
-namespace apartment.Types;
+using apartment.Types;
+using Location = apartment.Types.Location;
+
+namespace apartment.Features.Apartments;
 
 [QueryType]
 public static class Query
