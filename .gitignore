@@ -50,7 +50,7 @@ dlldata.c
 *.tmp_proj
 *.log
 *.vspscc
-*.appsettings.Development.json
+*appsettings.Development.json
 *.DotSettings.users
 *.user
 *.vspx
